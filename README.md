@@ -19,10 +19,14 @@ With this plugin you can add images of your webcam into an Aloha Editor editable
 </code></pre>
 
 * Add the photobooth plugin CSS to your HTML
-<pre><code><link rel="stylesheet" href="/paht-to-aloha-editor/plugins/extra/photobooth/css/photobooth.css" type="text/css"></code></pre>
+<pre><code>
+    <link rel="stylesheet" href="/paht-to-aloha-editor/plugins/extra/photobooth/css/photobooth.css" type="text/css">
+</code></pre>
 
 * Add the jQuery UI CSS to your HTML
-<pre><code><link href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" /></code></pre>
+<pre><code>
+    <link href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+</code></pre>
 
 
 ## Examples:

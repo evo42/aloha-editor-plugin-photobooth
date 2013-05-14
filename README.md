@@ -35,3 +35,4 @@ http://aloha-editor.org/postamt/id/A1361535329085.html
 
 To try it yourself navigate to http://aloha-editor.org/postamt/photobooth.html click on the default text to start editing, select the "insert" tab and click the webcam icon to capture an image via the webcam.
 
+

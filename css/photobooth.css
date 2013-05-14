@@ -1,0 +1,17 @@
+.aloha .ui-state-default .aloha-icon.aloha-icon-photobooth { background: url(../img/webcam-icon.png) no-repeat 0px 0px; }
+
+#photobooth-camera {
+	height: 480px;
+	width: 720px;
+}
+
+.photobooth ul {
+	width: 30px;
+	-webkit-padding-start: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+.photobooth ul li {
+	list-style-type: none;
+	width: 30px;
+}

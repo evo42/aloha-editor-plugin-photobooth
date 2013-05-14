@@ -6,7 +6,7 @@ With this plugin you can add images of your webcam into an Aloha Editor editable
 
 * Add the plugin folder ("photobooth") to your 3rd-party or extra plugin directory in Aloha Editor.
 * Add adjust the Aloha Editor configuration so that the photobooth button show up at the "insert" tab:
-<pre><code>
+```
     Aloha.settings.toolbar = {
         tabs: [{
                 label: 'tab.insert.label',
@@ -16,17 +16,17 @@ With this plugin you can add images of your webcam into an Aloha Editor editable
             }
         ]
     };
-</code></pre>
+```
 
 * Add the photobooth plugin CSS to your HTML
-<pre><code>
-    <link rel="stylesheet" href="/paht-to-aloha-editor/plugins/extra/photobooth/css/photobooth.css" type="text/css">
-</code></pre>
+```
+<link rel="stylesheet" href="/paht-to-aloha-editor/plugins/extra/photobooth/css/photobooth.css" type="text/css">
+```
 
 * Add the jQuery UI CSS to your HTML
-<pre><code>
-    <link href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
-</code></pre>
+```
+<link href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+```
 
 
 ## Examples:
